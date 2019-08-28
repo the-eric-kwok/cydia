@@ -1,0 +1,14 @@
+Package: com.yeyebbc.meeye
+Version: 3.9.3
+Section: Themes
+Maintainer: Eric Kwok <erickwok404@gmail.com>
+Depends: mobilesubstrate, com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
+Architecture: iphoneos-arm
+Filename: ./debs/meeye.deb
+Size: 22097392
+MD5sum: 38a7f23cefa30415b3fb5d92e50352c1
+Description: Meego style icons with refreshed, more modern looks.
+Name: Meeye
+Author: antoniacrespoa2 <lealeafdesign@gmail.com>
+Depiction: https://repo.erickwok.space/depictions/?p=com.yeyebbc.meeye
+
