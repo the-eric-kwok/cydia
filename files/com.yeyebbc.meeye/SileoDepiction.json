@@ -31,6 +31,16 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
+                    "class": "DepictionImageView",
+                    "URL": "screenshots/meeye-main.png",
+                    "width": 1311,
+                    "height": 1920,
+                    "cornerRadius": 0
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "title": "Latest Version",
                     "class": "DepictionHeaderView"
                 },
