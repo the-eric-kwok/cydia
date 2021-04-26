@@ -55,10 +55,10 @@
     </descriptions>
     <compatibility>
         <miniOS>11.0</miniOS>
-        <maxiOS>12.4</maxiOS>
+        <maxiOS>14.5</maxiOS>
     </compatibility>
     <dependencies>
-      <dependency>net.dodtweaks.ithemer | com.anemonetheming.anemone | com.spark.snowboard</dependency>
+      <dependency> com.anemonetheming.anemone3 | com.anemonetheming.anemone | com.spark.snowboard | net.dodtweaks.ithemer</dependency>
     </dependencies>
     <changelog>
       <change>
