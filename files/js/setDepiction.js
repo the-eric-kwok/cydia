@@ -11,11 +11,12 @@ $(function () {
     console.log("Fetching XML");
     var getUrl = window.location;
     var baseUrl = getUrl.protocol + "//" + getUrl.host + "/" + getUrl.pathname.split('/').slice(0, -1);
-    console.log(baseUrl + "/files/" + bundle + "/info.xml");
+    var targetURL = baseUrl + "/" + bundle + "/info.xml"
+    console.log('baseurl:', baseURL, 'targeturl:', targetURL);
 
     $.ajax({
         type: "GET",
-        url: baseUrl + "/" + bundle + "/info.xml",
+        url: targetURL,
         dataType: "xml",
         success: function (xml) {
             console.log("Beginning XML Parsing");
