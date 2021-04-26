@@ -1,8 +1,8 @@
 
-$(function(){
+$(function () {
     var bundle = getQueryVariable('p');
 
-    if(bundle != undefined){
+    if (bundle != undefined) {
         //Now fetch the appropriate file from this query string
     }
 
@@ -11,7 +11,7 @@ $(function(){
     console.log("Fetching XML");
     var getUrl = window.location;
     var baseUrl = getUrl.protocol + "//" + getUrl.host + "/" + getUrl.pathname.split('/')[1];
-    console.log(baseUrl + "/"+ bundle + "/info.xml");
+    console.log(baseUrl + "/files/" + bundle + "/info.xml");
 
     $.ajax({
         type: "GET",
@@ -21,34 +21,34 @@ $(function(){
             console.log("Beginning XML Parsing");
 
             // Parse the xml file and get data
-            $(xml).find('packageInfo').each(function(){
+            $(xml).find('packageInfo').each(function () {
                 document.getElementById("packageTitle").innerHTML = $(this).find("name").text();
                 document.getElementById("bundleId").innerHTML = $(this).find("bundleId").text();
                 document.getElementById("Compatibility").innerHTML = $(this).find("miniOS").text() + '-' + $(this).find("maxiOS").text();
-				document.getElementById("icon").innerHTML = '<img src="' + bundle + '/' + $(this).find("icon").text() + '" style="vertical-align: middle" width="70" height="70"/>';
+                document.getElementById("icon").innerHTML = '<img src="' + bundle + '/' + $(this).find("icon").text() + '" style="vertical-align: middle" width="70" height="70"/>';
 
-                $(xml).find('description').each(function(){
-                    $("#description" ).append('<p>' +$(this).text()+ '</p>');
+                $(xml).find('description').each(function () {
+                    $("#description").append('<p>' + $(this).text() + '</p>');
                 });
 
-                $(xml).find('dependency').each(function(){
-                    $("#dependencies" ).append('<p>' +$(this).text()+ '</p>');
+                $(xml).find('dependency').each(function () {
+                    $("#dependencies").append('<p>' + $(this).text() + '</p>');
                 });
 
-                $(xml).find('linkName').each(function(){
-                    $("#links" ).append('<p>' +$(this).text()+ '</p>');
+                $(xml).find('linkName').each(function () {
+                    $("#links").append('<p>' + $(this).text() + '</p>');
                 });
 
-                $(xml).find('change').each(function(){
-                    $("#changeLog" ).append('<p>' + '<h2>' + $(this).find("changeVersion").text() + '</h2>' + '</p>');
-                    $(this).find('changeDescription').each(function(){
-                         $("#changeLog" ).append('<p>' + $(this).text()+ '</p>');
+                $(xml).find('change').each(function () {
+                    $("#changeLog").append('<p>' + '<h2>' + $(this).find("changeVersion").text() + '</h2>' + '</p>');
+                    $(this).find('changeDescription').each(function () {
+                        $("#changeLog").append('<p>' + $(this).text() + '</p>');
                     });
                 });
 
-				$(xml).find('screenshot').each(function(){
-					$("#screenshots" ).append('<img src="' + bundle + '/screenshots/' + $(this).text() + '" data-toggle="modal" width="250px">');
-				});
+                $(xml).find('screenshot').each(function () {
+                    $("#screenshots").append('<img src="' + bundle + '/screenshots/' + $(this).text() + '" data-toggle="modal" width="250px">');
+                });
             });
         }
     });
