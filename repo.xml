@@ -1,0 +1,9 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>Follow me on GitHub</name>
+            <url>https://github.com/the-eric-kwok</url>
+            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+        </link>
+    </footerlinks>
+</repo>
