@@ -1,0 +1,110 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/banners/com.yeyebbc.meeye.png",
+    "tintColor": "#3177F3",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "title": "Meego 风格的图标，但更加现代化、更加简约洁净。",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346}",
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/meeye-main.png",
+                            "fullSizeURL": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/meeye-main.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/meeye-poster.png",
+                            "fullSizeURL": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/meeye-poster.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/Meeye_1.png",
+                            "fullSizeURL": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/Meeye_1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/Meeye_2.png",
+                            "fullSizeURL": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/Meeye_2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/Meeye_3.png",
+                            "fullSizeURL": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/Meeye_3.png"
+                        }
+                    ]
+                },
+                {
+                    "markdown": "Meego 风格的图标，但更加现代化、更加简约洁净。<br/>超过 1,900 个手工打磨的精致图标，兼顾国内外应用。<br/>不做多余的设计，却使你的主屏更加风格统一。<br/>独特可爱、别具一格的方圆形状图标形状。<br/><br/>MeeGo style icons with refreshed, more modern looks.<br/>The unique adorable squircle shape crafted by original MeeGo designers.<br/>The clean and unified style crafted on vectors.<br/>High resolution icons.<br/>More than 1,900+ hand-polished delicate icons for both domestic and international applications.<br/><br/><strong>特性：</strong><br/>- 长期支持，更新保障<br/>- 来自 Nokia Meego 系统的独特方圆形状图标（不是乐蛙也不是三星！！）<br/>- 高清图标<br/>- 动态时钟和日历<br/>- 专业设计师制作<br/>- 能够发送图标申请（可能会被作者爆锤）<br/><br/><strong>Tips:</strong><br/>推荐缩放系数 1.10<br/>Prefeted scale to 1.10<br/><br/><strong>鸣谢：</strong><br/>页页 - 作者<br/>ClydeSHenry - 图标与资源贡献<br/>Dospy-梦影决幻 - 图标与资源贡献<br/>Jackywine - 图标与资源贡献<br/>LCOOOOD - 图标与资源贡献<br/>Silen Chan - 图标贡献，网页设计与开发<br/>Eric Kwok - 将图标包移植到iOS<br/><br/><strong>版权声明</strong><br/>Meeye 图标包内部所有的 Meeye 图标文件都受到 创作共用协议4.0 保护（CC BY NC）<br/><br/>您可以自由的：<br/>「共享」 —在任何媒介以任何形式完整复制、发行本作品<br/>「前提你遵守许可协议条款，许可人就无法收回你的这些权利」<br/>但仅在遵守下列条款的前提下：<br/>「署名」  —您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否（对原始作品）作了修改。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人赞同您或您的使用。<br/>「非商业性使用」 —您不得将本作品及其演绎作品用于任何商业目的。<br/>「没有附加限制」 —您不得适用法律术语或者 技术措施 从而限制其他人做许可协议允许的事情。<br/><strong>Copyright</strong><br/>This theme is maintained by EricKwok.All icons are owned by the Meeye design team.All Meeye icon files are protected by Creative Commons Protocol 4.0. (CC BY NC)",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Latest Version",
+                    "class": "DepictionHeaderView"
+                },
+                {
+                    "title": "Version",
+                    "text": "3.9",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "2019/8/28",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                }
+            ]
+        },
+        {
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "title": "Version 3.9",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "- 增加了 87 个新图标\n- 重新设计了 2 个图标",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version 1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "所有图标的对应关系已经处理完毕，正式发布.",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                }
+            ]
+        }
+    ]
+}
