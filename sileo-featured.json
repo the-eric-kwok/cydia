@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-      "url": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/banners/com.yeyebbc.meeye.png",
+      "url": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/meeye-banner2.png",
       "title": "Meeye",
       "package": "com.yeyebbc.meeye",
       "hideShadow": false

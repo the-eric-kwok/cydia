@@ -1,10 +1,12 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/banners/com.yeyebbc.meeye.png",
+    "headerImage": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/meeye-banner1.png",
     "tintColor": "#3177F3",
+    "class": "DepictionTabView",
     "tabs": [
         {
             "tabname": "Details",
+            "class": "DepictionStackView",
             "views": [
                 {
                     "title": "Meego 风格的图标，但更加现代化、更加简约洁净。",
@@ -75,6 +77,7 @@
         },
         {
             "tabname": "Changelog",
+            "class": "DepictionStackView",
             "views": [
                 {
                     "title": "Version 3.9",
