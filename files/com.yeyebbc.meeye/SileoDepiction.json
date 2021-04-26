@@ -15,8 +15,8 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "11.0-14.5",
-                    "class": "DepictionTableTextView"
+                    "text": "11.0-14.5",
+                    "class": "DepictionLabelView"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -26,35 +26,35 @@
                     "URL": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/meeye-main.png",
                     "width": 1311,
                     "height": 1920,
-                    "cornerRadius": 5
+                    "cornerRadius": 0
                 },
                 {
                     "class": "DepictionImageView",
                     "URL": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/meeye-poster.png",
                     "width": 1311,
                     "height": 1920,
-                    "cornerRadius": 5
+                    "cornerRadius": 0
                 },
                 {
                     "class": "DepictionImageView",
                     "URL": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/Meeye_1.png",
-                    "width": 1311,
-                    "height": 1920,
-                    "cornerRadius": 5
+                    "width": 1153,
+                    "height": 865,
+                    "cornerRadius": 0
                 },
                 {
                     "class": "DepictionImageView",
                     "URL": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/Meeye_2.png",
-                    "width": 1311,
-                    "height": 1920,
-                    "cornerRadius": 5
+                    "width": 1153,
+                    "height": 865,
+                    "cornerRadius": 0
                 },
                 {
                     "class": "DepictionImageView",
                     "URL": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/Meeye_3.png",
-                    "width": 1311,
-                    "height": 1920,
-                    "cornerRadius": 5
+                    "width": 1153,
+                    "height": 865,
+                    "cornerRadius": 0
                 },
                 {
                     "class": "DepictionSeparatorView"
