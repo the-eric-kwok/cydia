@@ -10,7 +10,7 @@ $(function () {
     console.log(getQueryVariable('p'));
     console.log("Fetching XML");
     var getUrl = window.location;
-    var baseUrl = getUrl.protocol + "//" + getUrl.host + "/" + getUrl.pathname.split('/').slice(0, -1);
+    var baseUrl = getUrl.protocol + "//" + getUrl.host + getUrl.pathname.split('/').slice(0, -1).join('/');
     var targetURL = baseUrl + "/" + bundle + "/info.xml"
     console.log('baseurl:', baseURL, 'targeturl:', targetURL);
 
