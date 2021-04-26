@@ -16,8 +16,7 @@
                 },
                 {
                     "markdown": "11.0-14.5",
-                    "useSpacing": false,
-                    "class": "DepictionMarkdownView"
+                    "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -32,10 +31,10 @@
                 },
                 {
                     "class": "DepictionImageView",
-                    "URL": "screenshots/meeye-main.png",
+                    "URL": "https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/screenshots/meeye-main.png",
                     "width": 1311,
                     "height": 1920,
-                    "cornerRadius": 0
+                    "cornerRadius": 5
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -72,8 +71,8 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "- 增加了 87 个新图标\n- 重新设计了 2 个图标",
-                    "useSpacing": false,
+                    "markdown": "- 增加了 87 个新图标\n- 重新设计了 2 个图标\n",
+                    "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
@@ -86,8 +85,8 @@
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "所有图标的对应关系已经处理完毕，正式发布.",
-                    "useSpacing": false,
+                    "markdown": "所有图标的对应关系已经处理完毕，正式发布.\n",
+                    "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
