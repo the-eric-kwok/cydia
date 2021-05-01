@@ -7,6 +7,8 @@ Architecture: iphoneos-arm
 Filename: .//files/com.yeyebbc.meeye/com.yeyebbc.meeye.deb
 Size: 22097368
 MD5sum: 0433d422484cdc27b230e07eaf77bc38
+SHA1: 3ac3c3f3ccf557113a7b8f6fe74d755ca7a610c4
+SHA256: 75e0dc06ae9e19dcde0368afaca028d5861d360c6779805ba3f8f1c121c120ca
 Description: Meego style icons with refreshed, more modern looks.
 Name: Meeye
 Author: antoniacrespoa2 <lealeafdesign@gmail.com>
