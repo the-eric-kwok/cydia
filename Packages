@@ -7,7 +7,7 @@ Architecture: iphoneos-arm
 Filename: .//files/com.kef.rofi/com.kef.rofi_1.2.2-zhCN_iphoneos-arm.deb
 Size: 78092
 Installed-Size: 471
-MD5sum: 96177cc52c1daafac66424c5924541d3
+MD5sum: 898266b23fd5a8f7a74e91771445b67d
 Description: An app launcher tweak.
 Name: Rofi
 Author: Kef <theonlykef@gmail.com>
@@ -21,8 +21,8 @@ Maintainer: the-eric-kwok
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: .//files/com.the-eric-kwok.safari_yejing/com.the-eric-kwok.safari-yejing_0.0.1_iphoneos-arm.deb
-Size: 4548
-MD5sum: a1a330a838ec75111b5bdbac445f1d53
+Size: 4556
+MD5sum: dcdbf348003d593ec229ad41ab0d831a
 Description: Dark mode for Safari
 Name: 野径云俱黑，江船火独明
 Author: the-eric-kwok, 谷花泰, WilsontheWolf
@@ -37,7 +37,7 @@ Architecture: iphoneos-arm
 Filename: .//files/com.udevs.bakgrunnur/com.udevs.bakgrunnur_1.6.6_iphoneos-arm.deb
 Size: 252764
 Installed-Size: 1440
-MD5sum: 0273abbb5dfe1c3e37a3c1587b9399c2
+MD5sum: b96392c2c191e57aab3780fd7f0dbbd5
 Description: Truly backgrounding your apps
 Name: Bakgrunnur
 Author: udevs
@@ -54,7 +54,7 @@ Architecture: iphoneos-arm
 Filename: .//files/com.udevs.battsafepro/com.udevs.battsafepro_1.1.0_iphoneos-arm.deb
 Size: 139688
 Installed-Size: 1024
-MD5sum: a3f6c2c1d5723272d71ab57e153498da
+MD5sum: 8bff4ab76d1aa9cb4cd67211229c1b3f
 Description: Controls battery charging behaviour
 Name: BattSafePro
 Author: udevs
@@ -85,7 +85,7 @@ Depends: mobilesubstrate, com.anemonetheming.anemone3 | com.spark.snowboard | co
 Architecture: iphoneos-arm
 Filename: .//files/com.yeyebbc.meeye/com.yeyebbc.meeye_3.9.6_iphoneos-arm.deb
 Size: 22097368
-MD5sum: 0cd6d35c2d40d250476a30088cfb39f2
+MD5sum: 98a9ca3f0b6493e9bb3e66e75240713a
 Description: Meego style icons with refreshed, more modern looks.
 Name: Meeye
 Author: antoniacrespoa2 <lealeafdesign@gmail.com>
