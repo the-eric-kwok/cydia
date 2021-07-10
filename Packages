@@ -15,20 +15,6 @@ Depiction: https://chariz.com/get/rofi
 Icon: https://chariz.com/cdn/icon/rofi/icon@3x.png
 
 Package: com.the-eric-kwok.safari-yejing
-Version: 0.0.1
-Section: Tweaks
-Maintainer: the-eric-kwok
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: .//files/com.the-eric-kwok.safari_yejing/com.the-eric-kwok.safari-yejing_0.0.1_iphoneos-arm.deb
-Size: 4556
-MD5sum: dcdbf348003d593ec229ad41ab0d831a
-Description: Dark mode for Safari
-Name: 野径云俱黑，江船火独明
-Author: the-eric-kwok, 谷花泰, WilsontheWolf
-Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.safari_yejing
-
-Package: com.the-eric-kwok.safari-yejing
 Version: 0.0.2
 Section: Tweaks
 Maintainer: the-eric-kwok
@@ -74,22 +60,6 @@ Name: BattSafePro
 Author: udevs
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.battsafepro
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.battsafepro/icon/icon.png
-
-Package: com.yeyebbc.meeye
-Version: 3.9.6
-Section: Themes
-Maintainer: Eric Kwok <erickwok404@gmail.com>
-Depends: mobilesubstrate, com.anemonetheming.anemone3 | com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
-Architecture: iphoneos-arm
-Filename: .//files/com.yeyebbc.meeye/com.yeyebbc.meeye.deb
-Size: 22097368
-MD5sum: 0433d422484cdc27b230e07eaf77bc38
-Description: Meego style icons with refreshed, more modern looks.
-Name: Meeye
-Author: antoniacrespoa2 <lealeafdesign@gmail.com>
-Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.yeyebbc.meeye
-SileoDepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.yeyebbc.meeye/SileoDepiction.json
-Icon: https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/meeye.png
 
 Package: com.yeyebbc.meeye
 Version: 3.9.6
