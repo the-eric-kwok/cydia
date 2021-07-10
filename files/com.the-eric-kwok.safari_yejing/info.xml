@@ -1,0 +1,34 @@
+<packageInfo>
+    <bundleId>com.the-eric-kwok.safari-yejing</bundleId>
+    <name>Safari 夜景</name>
+    <icon></icon>
+    <descriptions>
+        <description>
+        <![CDATA[
+            这是一个为 Safari 浏览器带来页面内黑暗模式的插件。
+            它是一个 WebShade 的分支
+        ]]>
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>14.0</miniOS>
+        <maxiOS>14.5</maxiOS>
+    </compatibility>
+    <dependencies>
+      <dependency></dependency>
+    </dependencies>
+    <changelog>
+      <change>
+        <changeVersion>v0.0.2</changeVersion>
+        <changeDescription>更换为 DarkReader</changeDescription>
+      </change>
+      <change>
+        <changeVersion>v0.0.1</changeVersion>
+        <changeDescription>Initial Release</changeDescription>
+      </change>
+    </changelog>
+    <screenshots>
+      <screenshot>*.png</screenshot>
+    </screenshots>
+</packageInfo>
+

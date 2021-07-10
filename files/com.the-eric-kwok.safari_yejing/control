@@ -1,0 +1,11 @@
+Package: com.the-eric-kwok.safari-yejing
+Name: Safari 夜景
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Safari 的全局黑暗模式
+Maintainer: the-eric-kwok
+Author: the-eric-kwok, 谷花泰, WilsontheWolf
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.safari_yejing
+

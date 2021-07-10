@@ -1,0 +1,13 @@
+{
+    "name": "Safari 夜景",
+    "icon": "",
+    "screenShots": [
+    ],
+    "description": "description.md",
+    "compatibility": {
+        "miniOS": "14.0",
+        "maxiOS": "14.5"
+    },
+    "dependencies": [
+    ]
+}

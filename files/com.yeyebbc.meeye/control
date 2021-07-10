@@ -1,0 +1,13 @@
+Package: com.yeyebbc.meeye
+Name: Meeye
+Version: 3.9.6
+Icon: https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/meeye.png
+Architecture: iphoneos-arm
+Description: Meego style icons with refreshed, more modern looks.
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.yeyebbc.meeye
+SileoDepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.yeyebbc.meeye/SileoDepiction.json
+Author: antoniacrespoa2 <lealeafdesign@gmail.com>
+Maintainer: Eric Kwok <erickwok404@gmail.com>
+Section: Themes
+Depends: mobilesubstrate, com.anemonetheming.anemone3 | com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
+
