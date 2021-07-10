@@ -1,3 +1,66 @@
+Package: com.kef.rofi
+Version: 1.2.2-zhCN
+Section: Tweaks
+Maintainer: Kef <theonlykef@gmail.com>
+Depends: mobilesubstrate, ws.hbang.alderis, ws.hbang.common (>= 1.11), applist, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//files/com.kef.rofi/com.kef.rofi_1.2.2-zhCN_iphoneos-arm.deb
+Size: 78092
+Installed-Size: 471
+MD5sum: 96177cc52c1daafac66424c5924541d3
+Description: An app launcher tweak.
+Name: Rofi
+Author: Kef <theonlykef@gmail.com>
+Depiction: https://chariz.com/get/rofi
+Icon: https://chariz.com/cdn/icon/rofi/icon@3x.png
+
+Package: com.the-eric-kwok.safari-yejing
+Version: 0.0.1
+Section: Tweaks
+Maintainer: the-eric-kwok
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: .//files/com.the-eric-kwok.safari_yejing/com.the-eric-kwok.safari-yejing_0.0.1_iphoneos-arm.deb
+Size: 4548
+MD5sum: a1a330a838ec75111b5bdbac445f1d53
+Description: Dark mode for Safari
+Name: 野径云俱黑，江船火独明
+Author: the-eric-kwok, 谷花泰, WilsontheWolf
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.safari_yejing
+
+Package: com.udevs.bakgrunnur
+Version: 1.6.6
+Section: Tweaks
+Maintainer: udevs
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist, com.udevs.vexillarius
+Architecture: iphoneos-arm
+Filename: .//files/com.udevs.bakgrunnur/com.udevs.bakgrunnur_1.6.6_iphoneos-arm.deb
+Size: 252764
+Installed-Size: 1440
+MD5sum: 0273abbb5dfe1c3e37a3c1587b9399c2
+Description: Truly backgrounding your apps
+Name: Bakgrunnur
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
+
+Package: com.udevs.battsafepro
+Version: 1.1.0
+Section: Tweaks
+Maintainer: udevs
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: com.udevs.battsafe
+Architecture: iphoneos-arm
+Filename: .//files/com.udevs.battsafepro/com.udevs.battsafepro_1.1.0_iphoneos-arm.deb
+Size: 139688
+Installed-Size: 1024
+MD5sum: a3f6c2c1d5723272d71ab57e153498da
+Description: Controls battery charging behaviour
+Name: BattSafePro
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.battsafepro
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.battsafepro/icon/icon.png
+
 Package: com.yeyebbc.meeye
 Version: 3.9.6
 Section: Themes
@@ -7,8 +70,22 @@ Architecture: iphoneos-arm
 Filename: .//files/com.yeyebbc.meeye/com.yeyebbc.meeye.deb
 Size: 22097368
 MD5sum: 0433d422484cdc27b230e07eaf77bc38
-SHA1: 3ac3c3f3ccf557113a7b8f6fe74d755ca7a610c4
-SHA256: 75e0dc06ae9e19dcde0368afaca028d5861d360c6779805ba3f8f1c121c120ca
+Description: Meego style icons with refreshed, more modern looks.
+Name: Meeye
+Author: antoniacrespoa2 <lealeafdesign@gmail.com>
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.yeyebbc.meeye
+SileoDepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.yeyebbc.meeye/SileoDepiction.json
+Icon: https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/meeye.png
+
+Package: com.yeyebbc.meeye
+Version: 3.9.6
+Section: Themes
+Maintainer: Eric Kwok <erickwok404@gmail.com>
+Depends: mobilesubstrate, com.anemonetheming.anemone3 | com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
+Architecture: iphoneos-arm
+Filename: .//files/com.yeyebbc.meeye/com.yeyebbc.meeye_3.9.6_iphoneos-arm.deb
+Size: 22097368
+MD5sum: 0cd6d35c2d40d250476a30088cfb39f2
 Description: Meego style icons with refreshed, more modern looks.
 Name: Meeye
 Author: antoniacrespoa2 <lealeafdesign@gmail.com>

@@ -1,0 +1,19 @@
+{
+    "name": "Meeye",
+    "icon": "meeye.png",
+    "screenShots": [
+        "screenshots/meeye-main.png",
+        "screenshots/meeye-poster.png",
+        "screenshots/Meeye_1.png",
+        "screenshots/Meeye_2.png",
+        "screenshots/Meeye_3.png"
+    ],
+    "description": "description.md",
+    "compatibility": {
+        "miniOS": "11.0",
+        "maxiOS": "14.5"
+    },
+    "dependencies": [
+        "com.anemonetheming.anemone3 | com.anemonetheming.anemone | com.spark.snowboard | net.dodtweaks.ithemer"
+    ]
+}
