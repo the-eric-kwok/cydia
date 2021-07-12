@@ -51,6 +51,23 @@ Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.
 Name: Safari 夜景
 Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.the-eric-kwok.safari-yejing/SileoDepiction.json
 
+Package: com.the-eric-kwok.safari-yejing
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: the-eric-kwok
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./files/com.the-eric-kwok.safari_yejing/com.the-eric-kwok.safari-yejing_0.0.4_iphoneos-arm.deb
+Size: 6192
+MD5sum: ec13e80dede3d514f0cf7363518574b0
+SHA1: 12dc15565e95e530b484ca6ab946c412d80d1cd1
+SHA256: 7d19f2f591c9cc5fbd91d3f015b19d51afd9da3d3d9070beec820a9c1462dfdc
+Section: Tweaks
+Description: Safari 的全局黑暗模式
+Author: the-eric-kwok, 谷花泰, WilsontheWolf
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.safari_yejing
+Name: Safari 夜景
+Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.the-eric-kwok.safari-yejing/SileoDepiction.json
+
 Package: com.udevs.bakgrunnur
 Version: 1.6.6
 Architecture: iphoneos-arm

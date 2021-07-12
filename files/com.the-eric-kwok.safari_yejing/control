@@ -1,6 +1,6 @@
 Package: com.the-eric-kwok.safari-yejing
 Name: Safari 夜景
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm
 Description: Safari 的全局黑暗模式
 Maintainer: the-eric-kwok
