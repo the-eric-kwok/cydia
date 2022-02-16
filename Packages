@@ -5,15 +5,15 @@ Maintainer: Kef <theonlykef@gmail.com>
 Installed-Size: 471
 Depends: mobilesubstrate, ws.hbang.alderis, ws.hbang.common (>= 1.11), applist, preferenceloader
 Filename: ./files/com.kef.rofi/com.kef.rofi_1.2.2-zhCN_iphoneos-arm.deb
-Size: 78148
-MD5sum: 28d9a44c0b0a271fa972a473c89aee62
-SHA1: dfc19ce39c28ab96ca57576820ac0f55f8b6e14c
-SHA256: 089500e85785666383ad5f17eabeb9d713f7da4a97bc51b701075c9b684e8c58
+Size: 78152
+MD5sum: 7080553641b57be892e88e18b19741b7
+SHA1: fd458e8b339a2557996d9424a6286d0fad3982a0
+SHA256: c661f17b2ab71ba9e4972bdc4d30fe9f3ac9b464f846c94cd1bdef9cbf5c54aa
 Section: Tweaks
 Description: An app launcher tweak.
 Tag: compatible_min::ios11.0
 Author: Kef <theonlykef@gmail.com>
-Depiction: https://chariz.com/get/rofi
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.com.kef.rofi
 Icon: https://chariz.com/cdn/icon/rofi/icon@3x.png
 Name: Rofi
 Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.kef.rofi/SileoDepiction.json
@@ -24,14 +24,14 @@ Architecture: iphoneos-arm
 Maintainer: the-eric-kwok
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./files/com.the-eric-kwok.CloudMusicNoAds/com.the-eric-kwok.CloudMusicNoAds_1.2-5_iphoneos-arm.deb
-Size: 415736
-MD5sum: 50c0375404fcd13235cd16a6f8ae0a75
-SHA1: 2d188f6bf77c31029ad6a25d39cfe7a360ce3e9d
-SHA256: c286f6eb62eed4bd076ee958d0258264cf4557c3eb8384e13da70cee586c3ceb
+Size: 415524
+MD5sum: b58a99ca46e69a2e8ea8a3c80c356456
+SHA1: a069c240f96759ac50a83e809fafe79096a1cf13
+SHA256: 604d9df0378e3f36e420fe3326929d54e0d432845875154de3946b5cfb3486d6
 Section: Tweaks
 Description: 网易云音乐去广告、缓存音乐导出，转载自 Netskao
 Author: Netskao
-Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.LocationFakerX
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.CloudMusicNoAds
 Name: 网易云音乐去广告、缓存音乐导出
 
 Package: com.the-eric-kwok.LocationFakerX
@@ -40,13 +40,13 @@ Architecture: iphoneos-arm
 Maintainer: the-eric-kwok
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./files/com.the-eric-kwok.LocationFakerX/com.the-eric-kwok.LocationFakerX_2.8-2_iphoneos-arm.deb
-Size: 1272536
-MD5sum: fbc892c9bf564327e41a5321b9aa5b05
-SHA1: e8519a47814565a894f12e706be8471e86297661
-SHA256: 282aeaa8849d11f1efb91a2e7bc5d84c0fb5f27cd20b86184a38123492f53488
+Size: 1272552
+MD5sum: a3ef5dd3d8672c093e7be060cf47fe9c
+SHA1: ab3b5435b81fa398abe028c0d3e0d29ad250ad65
+SHA256: 00689b3f5d68c4df475ac9836b61b085b3ac9e2820d5cc6f3af79fc3aa663f52
 Section: Tweaks
 Description: 模拟定位的软件（已破解）
-Author: the-eric-kwok, Netskao, CUNSTUCK
+Author: CUNSTUCK
 Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.LocationFakerX
 Name: LocationFakerX Cracked
 
@@ -57,9 +57,9 @@ Maintainer: the-eric-kwok
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./files/com.the-eric-kwok.TBNoAds/com.the-eric-kwok.TBNoAds_0.0.4_iphoneos-arm.deb
 Size: 63084
-MD5sum: df1f4aec9566037dadf038654b2ea2e0
-SHA1: 37e661f1f58e212fba9845ed252946db5af9dd68
-SHA256: 7a40feb53d4d8d6a9b2b7e4acf993b5dc4901b6429fbb625d609cd0c6af8e02c
+MD5sum: b115ceb2c1bac472b7811101aa6ee392
+SHA1: c8ed8360b0215423ee27870ca136ad30e8915d71
+SHA256: eb0753b901835373859daab2e53ce7bd2e6117c4fe872f0460009a2143eac961
 Section: Tweaks
 Description: 淘宝去广告，转载自 Netskao
 Author: Netskao
@@ -67,54 +67,20 @@ Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.
 Name: 淘宝去广告
 
 Package: com.the-eric-kwok.safari-yejing
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: the-eric-kwok
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./files/com.the-eric-kwok.safari_yejing/com.the-eric-kwok.safari-yejing_0.0.2_iphoneos-arm.deb
-Size: 4640
-MD5sum: 9b5d36aded188a9d53e9c9b81d491606
-SHA1: a6bfd155778ba8e8f0b439a806916a8022df78cd
-SHA256: ffb81554de79aa4756e29ddca9cbc2d315afa48045541e5b1e9e20c978d7772e
-Section: Tweaks
-Description: Safari 的全局黑暗模式
-Author: the-eric-kwok, 谷花泰, WilsontheWolf
-Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.safari_yejing
-Name: Safari 夜景
-
-Package: com.the-eric-kwok.safari-yejing
-Version: 0.0.3
-Architecture: iphoneos-arm
-Maintainer: the-eric-kwok
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./files/com.the-eric-kwok.safari_yejing/com.the-eric-kwok.safari-yejing_0.0.3_iphoneos-arm.deb
-Size: 4680
-MD5sum: f5d1977f41a50d0f4d6d43f39644d4d2
-SHA1: d308528a17f0cf8b2ae762fb4fd6affad7f88474
-SHA256: b26ecf5160308cfb9b7acfdb69449c648d17ae0626797f1912d11ddd82884a4c
-Section: Tweaks
-Description: Safari 的全局黑暗模式
-Author: the-eric-kwok, 谷花泰, WilsontheWolf
-Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.safari_yejing
-Name: Safari 夜景
-Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.the-eric-kwok.safari-yejing/SileoDepiction.json
-
-Package: com.the-eric-kwok.safari-yejing
 Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: the-eric-kwok
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./files/com.the-eric-kwok.safari_yejing/com.the-eric-kwok.safari-yejing_0.0.4_iphoneos-arm.deb
-Size: 6192
-MD5sum: ec13e80dede3d514f0cf7363518574b0
-SHA1: 12dc15565e95e530b484ca6ab946c412d80d1cd1
-SHA256: 7d19f2f591c9cc5fbd91d3f015b19d51afd9da3d3d9070beec820a9c1462dfdc
+Size: 6168
+MD5sum: d771bb0c5c1748f9f18d3ae588f025d0
+SHA1: f394b2a69ac6e2449fbecc192240bfb04de77473
+SHA256: 655d5d7b842272fd59d7bad8728d4956d05580e6ced62687586740a1fdfdcfcf
 Section: Tweaks
 Description: Safari 的全局黑暗模式
 Author: the-eric-kwok, 谷花泰, WilsontheWolf
 Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.safari_yejing
 Name: Safari 夜景
-Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.the-eric-kwok.safari-yejing/SileoDepiction.json
 
 Package: com.udevs.bakgrunnur
 Version: 1.6.6
@@ -123,17 +89,16 @@ Maintainer: udevs
 Installed-Size: 1440
 Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist, com.udevs.vexillarius
 Filename: ./files/com.udevs.bakgrunnur/com.udevs.bakgrunnur_1.6.6_iphoneos-arm.deb
-Size: 252808
-MD5sum: eeccc8e761c54ff96c198ccb96e780ce
-SHA1: df37ab5039f08dd5de0d07af33995cfcb4e6a752
-SHA256: c5c146c8266ecd6fb973668bfdda73e07f523d3943a6d260abe57dfa355ca683
+Size: 252788
+MD5sum: 84f95ac9462052e4ad1dced6383ad8fc
+SHA1: 05a51eecf4efbef595cbcf40a4935ebd70306e96
+SHA256: 036a2156051edc60e8a91499ff3e771fd704da3f52e5eed810f871132b89a09d
 Section: Tweaks
 Description: Truly backgrounding your apps
 Author: udevs
-Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.udevs.bakgrunnur
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
 Name: Bakgrunnur
-Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.udevs.bakgrunnur/SileoDepiction.json
 
 Package: com.udevs.battsafepro
 Version: 1.1.0
@@ -143,17 +108,16 @@ Installed-Size: 1024
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: com.udevs.battsafe
 Filename: ./files/com.udevs.battsafepro/com.udevs.battsafepro_1.1.0_iphoneos-arm.deb
-Size: 139736
-MD5sum: e974b5b4f760ee3d825e93a2eba5c7a4
-SHA1: acb677ddb395c32d1b1da2e1c277fd5c95f476d8
-SHA256: b7ffc03eddb43ceae5d34354981045a09f09ecdfcdd940e58822d2cf0e79691c
+Size: 139712
+MD5sum: f04e912cc043c8bee3b3a7ca83916d8a
+SHA1: ff2f0e3f6b5565b788ebd3b714cfa2aa7c321e99
+SHA256: 409545cc8fa20f6f03fd1b74bd285b48d80c90cbe6ad8989f7ff27d1b5998979
 Section: Tweaks
 Description: Controls battery charging behaviour
 Author: udevs
-Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.battsafepro
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.udevs.battsafepro
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.battsafepro/icon/icon.png
 Name: BattSafePro
-Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.udevs.battsafepro/SileoDepiction.json
 
 Package: com.yeyebbc.meeye
 Version: 3.9.6
@@ -161,15 +125,14 @@ Architecture: iphoneos-arm
 Maintainer: Eric Kwok <erickwok404@gmail.com>
 Depends: mobilesubstrate, com.anemonetheming.anemone3 | com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
 Filename: ./files/com.yeyebbc.meeye/com.yeyebbc.meeye_3.9.6_iphoneos-arm.deb
-Size: 22097476
-MD5sum: 9e5a8ca552fe4dd1cd60507d9c0b8c81
-SHA1: 9c4d8915dc063b57f9a7ac786ceb98d1e28c00c1
-SHA256: 4222b5c3651b742332890ebcba4ac5bca6618eb7be424e95dad13371ee2799ca
+Size: 22097460
+MD5sum: d8a8e4dbf2b9e767e824c8be88760b85
+SHA1: 8cdc400143fe2388a8697d5ecadf7791af9c39d9
+SHA256: 6084ed601a30a921b11b34fa78d0731d7ead3ba3adc332365ff80e104ac74ed5
 Section: Themes
 Description: Meego style icons with refreshed, more modern looks.
 Author: antoniacrespoa2 <lealeafdesign@gmail.com>
 Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.yeyebbc.meeye
 Icon: https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/meeye.png
 Name: Meeye
-Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.yeyebbc.meeye/SileoDepiction.json
 

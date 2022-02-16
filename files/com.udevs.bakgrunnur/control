@@ -7,7 +7,7 @@ Maintainer: udevs
 Author: udevs
 Section: Tweaks
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
-Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.udevs.bakgrunnur
 Version: 1.6.6
 Installed-Size: 1440
-Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.udevs.bakgrunnur/SileoDepiction.json
+

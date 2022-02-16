@@ -5,7 +5,6 @@ Icon: https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.y
 Architecture: iphoneos-arm
 Description: Meego style icons with refreshed, more modern looks.
 Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.yeyebbc.meeye
-SileoDepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.yeyebbc.meeye/SileoDepiction.json
 Author: antoniacrespoa2 <lealeafdesign@gmail.com>
 Maintainer: Eric Kwok <erickwok404@gmail.com>
 Section: Themes

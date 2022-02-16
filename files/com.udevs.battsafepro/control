@@ -8,7 +8,7 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: com.udevs.battsafe
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.battsafepro/icon/icon.png
-Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.battsafepro
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.udevs.battsafepro
 Version: 1.1.0
 Installed-Size: 1024
-Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.udevs.battsafepro/SileoDepiction.json
+
