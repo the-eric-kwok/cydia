@@ -18,6 +18,22 @@ Icon: https://chariz.com/cdn/icon/rofi/icon@3x.png
 Name: Rofi
 Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.kef.rofi/SileoDepiction.json
 
+Package: com.the-eric-kwok.CloudMusicNoAds
+Version: 1.2-5
+Architecture: iphoneos-arm
+Maintainer: the-eric-kwok
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./files/com.the-eric-kwok.CloudMusicNoAds/com.the-eric-kwok.CloudMusicNoAds_1.2-5_iphoneos-arm.deb
+Size: 415736
+MD5sum: 50c0375404fcd13235cd16a6f8ae0a75
+SHA1: 2d188f6bf77c31029ad6a25d39cfe7a360ce3e9d
+SHA256: c286f6eb62eed4bd076ee958d0258264cf4557c3eb8384e13da70cee586c3ceb
+Section: Tweaks
+Description: 网易云音乐去广告、缓存音乐导出，转载自 Netskao
+Author: Netskao
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.LocationFakerX
+Name: 网易云音乐去广告、缓存音乐导出
+
 Package: com.the-eric-kwok.LocationFakerX
 Version: 2.8-2
 Architecture: iphoneos-arm
@@ -33,6 +49,22 @@ Description: 模拟定位的软件（已破解）
 Author: the-eric-kwok, Netskao, CUNSTUCK
 Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.LocationFakerX
 Name: LocationFakerX Cracked
+
+Package: com.the-eric-kwok.TBNoAds
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: the-eric-kwok
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./files/com.the-eric-kwok.TBNoAds/com.the-eric-kwok.TBNoAds_0.0.4_iphoneos-arm.deb
+Size: 63084
+MD5sum: df1f4aec9566037dadf038654b2ea2e0
+SHA1: 37e661f1f58e212fba9845ed252946db5af9dd68
+SHA256: 7a40feb53d4d8d6a9b2b7e4acf993b5dc4901b6429fbb625d609cd0c6af8e02c
+Section: Tweaks
+Description: 淘宝去广告，转载自 Netskao
+Author: Netskao
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.TBNoAds
+Name: 淘宝去广告
 
 Package: com.the-eric-kwok.safari-yejing
 Version: 0.0.2

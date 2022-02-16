@@ -1,0 +1,12 @@
+Package: com.the-eric-kwok.CloudMusicNoAds
+Name: 网易云音乐去广告、缓存音乐导出
+Version: 1.2-5
+Architecture: iphoneos-arm
+Description: 网易云音乐去广告、缓存音乐导出，转载自 Netskao
+Maintainer: the-eric-kwok
+Author: Netskao
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.LocationFakerX
+
+
