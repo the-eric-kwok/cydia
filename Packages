@@ -18,6 +18,22 @@ Icon: https://chariz.com/cdn/icon/rofi/icon@3x.png
 Name: Rofi
 Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.kef.rofi/SileoDepiction.json
 
+Package: com.the-eric-kwok.LocationFakerX
+Version: 2.8-2
+Architecture: iphoneos-arm
+Maintainer: the-eric-kwok
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./files/com.the-eric-kwok.LocationFakerX/com.the-eric-kwok.LocationFakerX_2.8-2_iphoneos-arm.deb
+Size: 1272536
+MD5sum: fbc892c9bf564327e41a5321b9aa5b05
+SHA1: e8519a47814565a894f12e706be8471e86297661
+SHA256: 282aeaa8849d11f1efb91a2e7bc5d84c0fb5f27cd20b86184a38123492f53488
+Section: Tweaks
+Description: 模拟定位的软件（已破解）
+Author: the-eric-kwok, Netskao, CUNSTUCK
+Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.LocationFakerX
+Name: LocationFakerX Cracked
+
 Package: com.the-eric-kwok.safari-yejing
 Version: 0.0.2
 Architecture: iphoneos-arm
