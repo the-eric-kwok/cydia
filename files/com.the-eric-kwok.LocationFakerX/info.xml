@@ -1,0 +1,30 @@
+<packageInfo>
+    <bundleId>com.the-eric-kwok.LocationFakerX</bundleId>
+    <name>LocationFakerX Cracked</name>
+    <icon>icon.png</icon>
+    <descriptions>
+        <description>
+        <![CDATA[
+        一个破解版的 LocationFakerX，用于模拟修改定位。
+
+        <strong>鸣谢：</strong><br/>
+          CUNSTUCK - 作者
+          Netskao - 破解者
+        ]]>
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>12.0</miniOS>
+        <maxiOS>14.5</maxiOS>
+    </compatibility>
+    <dependencies>
+      <dependency>mobilesubstrate</dependency>
+    </dependencies>
+    <changelog>
+    </changelog>
+      <screenshots>
+        <screenshot>IMG_1470.PNG</screenshot>
+        <screenshot>IMG_1471.PNG</screenshot>
+      </screenshots>
+</packageInfo>
+
