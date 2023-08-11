@@ -1,45 +1,9 @@
-Package: com.kef.rofi
-Version: 1.2.2-zhCN
-Architecture: iphoneos-arm
-Maintainer: Kef <theonlykef@gmail.com>
-Installed-Size: 471
-Depends: mobilesubstrate, ws.hbang.alderis, ws.hbang.common (>= 1.11), applist, preferenceloader
-Filename: ./files/com.kef.rofi/com.kef.rofi_1.2.2-zhCN_iphoneos-arm.deb
-Size: 78152
-MD5sum: 7080553641b57be892e88e18b19741b7
-SHA1: fd458e8b339a2557996d9424a6286d0fad3982a0
-SHA256: c661f17b2ab71ba9e4972bdc4d30fe9f3ac9b464f846c94cd1bdef9cbf5c54aa
-Section: Tweaks
-Description: An app launcher tweak.
-Tag: compatible_min::ios11.0
-Author: Kef <theonlykef@gmail.com>
-Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.com.kef.rofi
-Icon: https://chariz.com/cdn/icon/rofi/icon@3x.png
-Name: Rofi
-Sileodepiction: https://the-eric-kwok.github.io/CydiaRepo/files/com.kef.rofi/SileoDepiction.json
-
-Package: com.the-eric-kwok.CloudMusicNoAds
-Version: 1.2-5
-Architecture: iphoneos-arm
-Maintainer: the-eric-kwok
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./files/com.the-eric-kwok.CloudMusicNoAds/com.the-eric-kwok.CloudMusicNoAds_1.2-5_iphoneos-arm.deb
-Size: 415524
-MD5sum: b58a99ca46e69a2e8ea8a3c80c356456
-SHA1: a069c240f96759ac50a83e809fafe79096a1cf13
-SHA256: 604d9df0378e3f36e420fe3326929d54e0d432845875154de3946b5cfb3486d6
-Section: Tweaks
-Description: 网易云音乐去广告、缓存音乐导出，转载自 Netskao
-Author: Netskao
-Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.CloudMusicNoAds
-Name: 网易云音乐去广告、缓存音乐导出
-
 Package: com.the-eric-kwok.LocationFakerX
 Version: 2.8-2
 Architecture: iphoneos-arm
 Maintainer: the-eric-kwok
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./files/com.the-eric-kwok.LocationFakerX/com.the-eric-kwok.LocationFakerX_2.8-2_iphoneos-arm.deb
+Filename: Packages.d/com.the-eric-kwok.LocationFakerX/com.the-eric-kwok.LocationFakerX_2.8-2.deb
 Size: 1272552
 MD5sum: a3ef5dd3d8672c093e7be060cf47fe9c
 SHA1: ab3b5435b81fa398abe028c0d3e0d29ad250ad65
@@ -50,89 +14,25 @@ Author: CUNSTUCK
 Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.LocationFakerX
 Name: LocationFakerX Cracked
 
-Package: com.the-eric-kwok.TBNoAds
-Version: 0.0.4
+Package: netskao.dumpdecrypter
+Version: 1.2-9.4
 Architecture: iphoneos-arm
-Maintainer: the-eric-kwok
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./files/com.the-eric-kwok.TBNoAds/com.the-eric-kwok.TBNoAds_0.0.4_iphoneos-arm.deb
-Size: 63084
-MD5sum: b115ceb2c1bac472b7811101aa6ee392
-SHA1: c8ed8360b0215423ee27870ca136ad30e8915d71
-SHA256: eb0753b901835373859daab2e53ce7bd2e6117c4fe872f0460009a2143eac961
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1330
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: Packages.d/netskao.dumpdecrypter/netskao.dumpdecrypter_1.2-9.4.deb
+Size: 235276
+MD5sum: 35e6e5ce99e2eef3f47855f5926c7c8f
+SHA1: dd32013676ad4f6f233f3f496b3a0c40b9ea3f64
+SHA256: 87194473eee3a9eb76f0d6e202877d67421a2e88679eb04a402340f44b84c723
 Section: Tweaks
-Description: 淘宝去广告，转载自 Netskao
-Author: Netskao
-Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.TBNoAds
-Name: 淘宝去广告
-
-Package: com.the-eric-kwok.safari-yejing
-Version: 0.0.4
-Architecture: iphoneos-arm
-Maintainer: the-eric-kwok
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./files/com.the-eric-kwok.safari_yejing/com.the-eric-kwok.safari-yejing_0.0.4_iphoneos-arm.deb
-Size: 6168
-MD5sum: d771bb0c5c1748f9f18d3ae588f025d0
-SHA1: f394b2a69ac6e2449fbecc192240bfb04de77473
-SHA256: 655d5d7b842272fd59d7bad8728d4956d05580e6ced62687586740a1fdfdcfcf
-Section: Tweaks
-Description: Safari 的全局黑暗模式
-Author: the-eric-kwok, 谷花泰, WilsontheWolf
-Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.the-eric-kwok.safari_yejing
-Name: Safari 夜景
-
-Package: com.udevs.bakgrunnur
-Version: 1.6.6
-Architecture: iphoneos-arm
-Maintainer: udevs
-Installed-Size: 1440
-Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist, com.udevs.vexillarius
-Filename: ./files/com.udevs.bakgrunnur/com.udevs.bakgrunnur_1.6.6_iphoneos-arm.deb
-Size: 252788
-MD5sum: 84f95ac9462052e4ad1dced6383ad8fc
-SHA1: 05a51eecf4efbef595cbcf40a4935ebd70306e96
-SHA256: 036a2156051edc60e8a91499ff3e771fd704da3f52e5eed810f871132b89a09d
-Section: Tweaks
-Description: Truly backgrounding your apps
-Author: udevs
-Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.udevs.bakgrunnur
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
-Name: Bakgrunnur
-
-Package: com.udevs.battsafepro
-Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: udevs
-Installed-Size: 1024
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.2)
-Conflicts: com.udevs.battsafe
-Filename: ./files/com.udevs.battsafepro/com.udevs.battsafepro_1.1.0_iphoneos-arm.deb
-Size: 139712
-MD5sum: f04e912cc043c8bee3b3a7ca83916d8a
-SHA1: ff2f0e3f6b5565b788ebd3b714cfa2aa7c321e99
-SHA256: 409545cc8fa20f6f03fd1b74bd285b48d80c90cbe6ad8989f7ff27d1b5998979
-Section: Tweaks
-Description: Controls battery charging behaviour
-Author: udevs
-Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.udevs.battsafepro
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.battsafepro/icon/icon.png
-Name: BattSafePro
-
-Package: com.yeyebbc.meeye
-Version: 3.9.6
-Architecture: iphoneos-arm
-Maintainer: Eric Kwok <erickwok404@gmail.com>
-Depends: mobilesubstrate, com.anemonetheming.anemone3 | com.spark.snowboard | com.anemonetheming.anemone | net.dodtweaks.ithemer
-Filename: ./files/com.yeyebbc.meeye/com.yeyebbc.meeye_3.9.6_iphoneos-arm.deb
-Size: 22097460
-MD5sum: d8a8e4dbf2b9e767e824c8be88760b85
-SHA1: 8cdc400143fe2388a8697d5ecadf7791af9c39d9
-SHA256: 6084ed601a30a921b11b34fa78d0731d7ead3ba3adc332365ff80e104ac74ed5
-Section: Themes
-Description: Meego style icons with refreshed, more modern looks.
-Author: antoniacrespoa2 <lealeafdesign@gmail.com>
-Depiction: https://the-eric-kwok.github.io/CydiaRepo/files/?p=com.yeyebbc.meeye
-Icon: https://raw.githubusercontent.com/the-eric-kwok/CydiaRepo/main/files/com.yeyebbc.meeye/meeye.png
-Name: Meeye
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dumpdecrypterDp
+Description: DumpDecrypter是基于dumpdecrypted的修改封装，使用方式：通过桌面的DumpDecrypter应用
+ 程序选择需要解密的应用，增加可选修改版本限制，可选删除跳转URL，可选删除设备限制，可选删除包内小组件，可选删除包内手表组件，可选修复白图标，解密完整应用并导出至/var/mobile/Documents/DumpDecrypter，选择应用后自动杀掉应用进程重新开始，解密前加载所有Frameworks，解密前停止所有非解密线程，解密完成后自动恢复等(解密后的IPA如果你要直接安装，建议重签名，无论使用的签名证书是否有效，否则某些环境会出现闪退等问题)
+Tag: purpose::extension
+Author: Netskao <1410970825@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dumpdecrypterDp
+Dev: netskao
+Name: DumpDecrypter
+Sponsor: thebigboss.org <http://thebigboss.org>
 
