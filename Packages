@@ -1,3 +1,19 @@
+Package: com.guoyaoming.wifialwayson
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Guo Yaoming
+Installed-Size: 172
+Depends: firmware (>= 14.0), mobilesubstrate | ellekit
+Filename: Packages.d/com.guoyaoming.wifialwayson/com.guoyaoming.wifialwayson_1.2.0.deb
+Size: 7266
+MD5sum: 07748c9ced99331536e69b5cc518f252
+SHA1: 0c4fb24b330f402d34f205bded163e57f4a888fb
+SHA256: 247e41eb57e156aded881796d98a57278a1335bf570823cb99561fe9f692242b
+Section: Tweaks
+Description: Keeps Wi-Fi enabled and blocks power-off actions in Settings and Control Center.
+Author: Guo Yaoming
+Name: WiFi Always On
+
 Package: com.the-eric-kwok.LocationFakerX
 Version: 2.8-2
 Architecture: iphoneos-arm

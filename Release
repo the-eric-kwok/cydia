@@ -3,7 +3,22 @@ Label: Eric's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64 all
 Components: main
-Description: I got some themes, maybe.
-
+Description: Eric's iOS jailbreak package repository.
+Date: Tue, 04 Aug 2026 09:53:05 +0000
+MD5Sum:
+ 9a8741cf8fbca0798c966591061c8582             2696 Packages
+ d6ced5d31451296b5e1d9f3f2b76f159             1483 Packages.gz
+ 4f0634a78b03b3f01e470691a8d72447             1570 Packages.bz2
+ 72a09be76d6328c3755fcce98c117831             1448 Packages.xz
+SHA1:
+ fc7f3547fee5a5371cc9bced31454466803c39e8             2696 Packages
+ 5893aebced9206782fd0d709bdcbd8845f550828             1483 Packages.gz
+ 38988e8b818bd783b135672a0268828d46452ad8             1570 Packages.bz2
+ 7803e2101bdd3357f6f5dbd4169c6bcb2d6a31c5             1448 Packages.xz
+SHA256:
+ ab72a7d737a60a125ca904d782577c2d4dc4c67fae861c0a9b79ee90cd876da5             2696 Packages
+ 25daf2b15dd571c014df1620128382bddbc11c2bbd4188287456f78364613db5             1483 Packages.gz
+ 033fbd677958ab6460a1fab3fb403a05acda3295d6dd812fc427e8f7f7faa441             1570 Packages.bz2
+ 5320ee40af0924722507fd00e2aa868ffc898dbdb2d2048dd980deb30109cc6d             1448 Packages.xz
