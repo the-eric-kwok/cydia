@@ -6,19 +6,19 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 all
 Components: main
 Description: Eric's iOS jailbreak package repository.
-Date: Thu, 15 Oct 2026 15:51:05 +0000
+Date: Thu, 15 Oct 2026 15:57:08 +0000
 MD5Sum:
- d4caa951914285f0af57a48638db37e0             3841 Packages
- 89ebc3cca2fad28427a7ed883dd6deee             1852 Packages.gz
- 2f8b5ae8bb7c79dd5e637f1459125ab1             2005 Packages.bz2
- c35afe25bdc9b3bc13948ab1036f6fd8             1768 Packages.xz
+ 517cfb59badff4e436d42949c800fc9e             4426 Packages
+ 9d3bda735056b805d5e1697cedbe0c4f             1997 Packages.gz
+ ec6db83a8529118b90de2184a20c64b0             2176 Packages.bz2
+ 0f5b8acf6f156d58d73a2cae8f875eac             1900 Packages.xz
 SHA1:
- 2bb43b8afde293b19c3b4fb8b624c88bda3306af             3841 Packages
- a53df73a436c79f9a0a44b67b62729a4df2fa558             1852 Packages.gz
- 3d5c8a41a0c75cf9e4dbc37ac96ef0543964961a             2005 Packages.bz2
- 2145f46ac932fa0ce6bd93600810e31cba88cd5c             1768 Packages.xz
+ 22dc7fe454369e9edce000559608e996679e16ff             4426 Packages
+ 093cc8d272a11a8b5a67b8bd56ae530085f3003e             1997 Packages.gz
+ d1be577e9f3be3197eb23ffb2f07d45ae1ceb89c             2176 Packages.bz2
+ 0e39ab8e107195424bceba0f1f5e1b21fa642c3d             1900 Packages.xz
 SHA256:
- 0a1833977dc7d30b16ed19fbc6f43dd69f55ece5a6dca190b24b10a6dd827929             3841 Packages
- cadc9ffc372934bd54f0b5b6367b6da9ef3110ecd1be098fd46d71f73a873149             1852 Packages.gz
- 2084ac6d2b99302e7a1c53691323bd39c7744ece27dab9411960719c09566dc8             2005 Packages.bz2
- 5a62c3180a9084225f0604e15a46e294f74ee64c06630888f5b1c71b33302e0c             1768 Packages.xz
+ 433f86f28d8f304aff3034a9e4b5170537b5f7748817a430a374040449bea2b2             4426 Packages
+ e79dca16683f5c02cf4f71ba0518810ac27288c05aa50824b7e73623fb281bf5             1997 Packages.gz
+ ec8b563b1531b3b9d628dd644d507269ed8c997473459116cf83dcc4a40e68c9             2176 Packages.bz2
+ afcbd7e44d78cfbc210ad94bfd9390703abde5ce9aca8cd599b1fd19230ad762             1900 Packages.xz
