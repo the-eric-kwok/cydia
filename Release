@@ -6,19 +6,19 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 all
 Components: main
 Description: Eric's iOS jailbreak package repository.
-Date: Tue, 04 Aug 2026 09:53:05 +0000
+Date: Thu, 15 Oct 2026 14:00:51 +0000
 MD5Sum:
- 9a8741cf8fbca0798c966591061c8582             2696 Packages
- d6ced5d31451296b5e1d9f3f2b76f159             1483 Packages.gz
- 4f0634a78b03b3f01e470691a8d72447             1570 Packages.bz2
- 72a09be76d6328c3755fcce98c117831             1448 Packages.xz
+ 3665f21a453d657450cbec59da069de7             3767 Packages
+ c270c4372386f2dc00922591e508453d             1914 Packages.gz
+ 80635ec7a31764a2951db5c72567fc71             2022 Packages.bz2
+ dbb63bf7ce7df0f7235159eb483c4259             1836 Packages.xz
 SHA1:
- fc7f3547fee5a5371cc9bced31454466803c39e8             2696 Packages
- 5893aebced9206782fd0d709bdcbd8845f550828             1483 Packages.gz
- 38988e8b818bd783b135672a0268828d46452ad8             1570 Packages.bz2
- 7803e2101bdd3357f6f5dbd4169c6bcb2d6a31c5             1448 Packages.xz
+ 15039809955f36c30f007b1b0f579fe8fe5b55fa             3767 Packages
+ 74890cf887d297c2adf6a72efb7fa7bcd07eeda5             1914 Packages.gz
+ f711c2a0cf112e2ac0b1ce72bca0178f667ebedf             2022 Packages.bz2
+ 95308c00ed4158b58f662bac14c5a44d9a68e537             1836 Packages.xz
 SHA256:
- ab72a7d737a60a125ca904d782577c2d4dc4c67fae861c0a9b79ee90cd876da5             2696 Packages
- 25daf2b15dd571c014df1620128382bddbc11c2bbd4188287456f78364613db5             1483 Packages.gz
- 033fbd677958ab6460a1fab3fb403a05acda3295d6dd812fc427e8f7f7faa441             1570 Packages.bz2
- 5320ee40af0924722507fd00e2aa868ffc898dbdb2d2048dd980deb30109cc6d             1448 Packages.xz
+ 583c8f91df45901d309ca2152d4e7f14cf61c268c61ac2b7e854c499f64bcfbe             3767 Packages
+ dec09111b5110ccb0beccbff44cdbbf1cfc684448cddffa1dadd977c5ba02c0a             1914 Packages.gz
+ 4021be0d8c2658405f98dcfb4f2922df0933ff4fdb296a68c553c2f15f1a001d             2022 Packages.bz2
+ a337c78b323a5a897fcfe73ba3ac984d22f40f301ef3d73b4a858a6508f42408             1836 Packages.xz

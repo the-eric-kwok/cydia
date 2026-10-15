@@ -14,6 +14,39 @@ Description: Keeps Wi-Fi enabled and blocks power-off actions in Settings and Co
 Author: Guo Yaoming
 Name: WiFi Always On
 
+Package: com.noaccl.probe
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: 郭耀铭
+Installed-Size: 76
+Depends: firmware (>= 15.0)
+Filename: Packages.d/com.noaccl.probe/com.noaccl.probe_0.1.0.deb
+Size: 9360
+MD5sum: 63db968851ed2b048d4bc17eae2a488c
+SHA1: d8fb303ef9cc6bb864fb30839cab04f670d05a53
+SHA256: edc751f1b2f3141e8d819c293cdd31903fc3bf405fc4231e89312d67f1318eb4
+Section: Development
+Description: On-device CoreMotion verification host for NoAccl.
+Author: 郭耀铭
+Name: NoAccl Probe
+
+Package: com.noaccl.tweak
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: 郭耀铭
+Installed-Size: 416
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: Packages.d/com.noaccl.tweak/com.noaccl.tweak_0.1.0.deb
+Size: 30400
+MD5sum: b40d3be63ce6eb57cf9301662451abe5
+SHA1: 508cd1ab5ea36f43095bbe3dec9b64b502c12090
+SHA256: db49ec003159aa2b2894d63052be46105dceea65c9c1d2f278e5f1bfe62ab153
+Section: Tweaks
+Description: Per-application accelerometer access control for iOS 15 jailbreaks.
+Author: 郭耀铭
+License: MIT
+Name: NoAccl
+
 Package: com.the-eric-kwok.LocationFakerX
 Version: 2.8-2
 Architecture: iphoneos-arm
