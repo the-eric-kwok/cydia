@@ -6,19 +6,19 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 all
 Components: main
 Description: Eric's iOS jailbreak package repository.
-Date: Thu, 15 Oct 2026 14:10:38 +0000
+Date: Thu, 15 Oct 2026 15:51:05 +0000
 MD5Sum:
- b73cd5982c84855a02a002367af15a21             3268 Packages
- 0b536238642ce771f0cde44196af4c8f             1736 Packages.gz
- 372c7b5a4a2c8cbfa7c62c3201142017             1847 Packages.bz2
- 27ab07c7415ea5dcfb92565f674b0210             1672 Packages.xz
+ d4caa951914285f0af57a48638db37e0             3841 Packages
+ 89ebc3cca2fad28427a7ed883dd6deee             1852 Packages.gz
+ 2f8b5ae8bb7c79dd5e637f1459125ab1             2005 Packages.bz2
+ c35afe25bdc9b3bc13948ab1036f6fd8             1768 Packages.xz
 SHA1:
- cca6850e3bab3ddc69994affed84e97e6e743773             3268 Packages
- 0b523a3b41e6914b2e58b3c7085dc28be1bd12c6             1736 Packages.gz
- beb6dd4919dbfe06df68d739e644130f679d936d             1847 Packages.bz2
- 6c1506fdfbc08832a10958149f7ca8a05af13103             1672 Packages.xz
+ 2bb43b8afde293b19c3b4fb8b624c88bda3306af             3841 Packages
+ a53df73a436c79f9a0a44b67b62729a4df2fa558             1852 Packages.gz
+ 3d5c8a41a0c75cf9e4dbc37ac96ef0543964961a             2005 Packages.bz2
+ 2145f46ac932fa0ce6bd93600810e31cba88cd5c             1768 Packages.xz
 SHA256:
- c94ace61436a78c67e0e552e7b9aafe7f63a8fe0498207d8c905b8ea6980f9e9             3268 Packages
- 04e6dc4f484ec259149f75f583c7d0b7f08fc774d787dc8d0fa778b1e2a4046f             1736 Packages.gz
- 82cb1ed59b8ee937b0ce9c5a6559c9f565ac45fa715843bd5d6cc48610c29632             1847 Packages.bz2
- 9a6aafcafe4fe985a2ae1de601f5abf8d6902c8996803658f5e1d52db01bdd3e             1672 Packages.xz
+ 0a1833977dc7d30b16ed19fbc6f43dd69f55ece5a6dca190b24b10a6dd827929             3841 Packages
+ cadc9ffc372934bd54f0b5b6367b6da9ef3110ecd1be098fd46d71f73a873149             1852 Packages.gz
+ 2084ac6d2b99302e7a1c53691323bd39c7744ece27dab9411960719c09566dc8             2005 Packages.bz2
+ 5a62c3180a9084225f0604e15a46e294f74ee64c06630888f5b1c71b33302e0c             1768 Packages.xz
