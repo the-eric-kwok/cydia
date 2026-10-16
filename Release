@@ -6,19 +6,19 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 all
 Components: main
 Description: Eric's iOS jailbreak package repository.
-Date: Thu, 15 Oct 2026 15:57:08 +0000
+Date: Fri, 16 Oct 2026 16:28:37 +0000
 MD5Sum:
- 517cfb59badff4e436d42949c800fc9e             4426 Packages
- 9d3bda735056b805d5e1697cedbe0c4f             1997 Packages.gz
- ec6db83a8529118b90de2184a20c64b0             2176 Packages.bz2
- 0f5b8acf6f156d58d73a2cae8f875eac             1900 Packages.xz
+ 9c292af110d7568aedb056dfb223a4bc             7684 Packages
+ f2f024d78c58b8a662340b4d6a7ae451             2716 Packages.gz
+ 76060363bd4ff362adb65f39a6509c75             2999 Packages.bz2
+ 8b05719fd813a784500df81d8722edbb             2560 Packages.xz
 SHA1:
- 22dc7fe454369e9edce000559608e996679e16ff             4426 Packages
- 093cc8d272a11a8b5a67b8bd56ae530085f3003e             1997 Packages.gz
- d1be577e9f3be3197eb23ffb2f07d45ae1ceb89c             2176 Packages.bz2
- 0e39ab8e107195424bceba0f1f5e1b21fa642c3d             1900 Packages.xz
+ 8fc6a4f343327275f5c391942f8bd3e9244bbd79             7684 Packages
+ 2ec59c3e6916f2cf5101b10e442b63e5fc4ccef0             2716 Packages.gz
+ e32f69f5681f2e65da5f754e537ad33ef7f1e43a             2999 Packages.bz2
+ daa517c7d018d24645b31b94b551d22600a8b6fd             2560 Packages.xz
 SHA256:
- 433f86f28d8f304aff3034a9e4b5170537b5f7748817a430a374040449bea2b2             4426 Packages
- e79dca16683f5c02cf4f71ba0518810ac27288c05aa50824b7e73623fb281bf5             1997 Packages.gz
- ec8b563b1531b3b9d628dd644d507269ed8c997473459116cf83dcc4a40e68c9             2176 Packages.bz2
- afcbd7e44d78cfbc210ad94bfd9390703abde5ce9aca8cd599b1fd19230ad762             1900 Packages.xz
+ 332193a68b156ea95e25dd88bed7bb4b12c857467fa7ab628de53ae7124bfe35             7684 Packages
+ 28761fdf959dad64703f46e2a2a56dfa7a840db1780cbf6e968c4a4dcb5d0610             2716 Packages.gz
+ 48ba11a6bddc6372eabea982db105ada8f447aa2f8da865676c15836d5a12607             2999 Packages.bz2
+ b59da31231df7e25e0bf64ec642f61d3a5d41494b3ca933d788779e7f3b50d56             2560 Packages.xz
