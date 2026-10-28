@@ -107,6 +107,23 @@ Author: 郭耀铭
 License: MIT
 Name: NoAccl
 
+Package: com.noaccl.tweak
+Version: 0.2.4
+Architecture: iphoneos-arm64
+Maintainer: 郭耀铭
+Installed-Size: 468
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: Packages.d/com.noaccl.tweak/com.noaccl.tweak_0.2.4_iphoneos-arm64.deb
+Size: 43812
+MD5sum: c501cbbd215c2eac2801b3d060db6a49
+SHA1: 7b4b570d3a0b0e4a8cf720eb84243d3c32b18707
+SHA256: edfcd29da67c86cbd8c11cbf3d7cea115633bb77570d16adb1e4e88eef0d8dc2
+Section: Tweaks
+Description: Theoretically supports iOS 15+ jailbreaks; tested on iOS 15 only.
+Author: 郭耀铭
+License: MIT
+Name: NoAccl
+
 Package: com.the-eric-kwok.LocationFakerX
 Version: 2.8-2
 Architecture: iphoneos-arm
