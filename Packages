@@ -158,6 +158,23 @@ Author: 郭耀铭
 License: MIT
 Name: NoAccl
 
+Package: com.noaccl.tweak
+Version: 0.3.0
+Architecture: iphoneos-arm64
+Maintainer: 郭耀铭
+Installed-Size: 640
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: Packages.d/com.noaccl.tweak/com.noaccl.tweak_0.3.0_iphoneos-arm64.deb
+Size: 86994
+MD5sum: ec9f12f46dab34339f07ed2a46532c41
+SHA1: 53d78cad48304cee5f5f77d6c78a65f0dcf4ab17
+SHA256: c140fc261517c50491f32cc26091beec72131e02ef6fd288e92966666954f9f3
+Section: Tweaks
+Description: Per-app motion, ambient-light and external-navigation permissions for rootless iOS 15+.
+Author: 郭耀铭
+License: MIT
+Name: NoShake
+
 Package: com.the-eric-kwok.LocationFakerX
 Version: 2.8-2
 Architecture: iphoneos-arm
