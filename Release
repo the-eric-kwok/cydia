@@ -6,19 +6,19 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 all
 Components: main
 Description: Eric's iOS jailbreak package repository.
-Date: Thu, 29 Oct 2026 11:14:38 +0000
+Date: Fri, 30 Oct 2026 02:57:44 +0000
 MD5Sum:
- 2b81c82be884d33df8bf3a7389ad2d40            10051 Packages
- 5568d353b6b4a5eb5245173ee46dea49             3234 Packages.gz
- 044ee2cdfae4b85a8f70ef880bac31c6             3522 Packages.bz2
- 592743f2110c2583a00819873d3bd442             2996 Packages.xz
+ 6a0a12ce85b22f6ce0a5c15184d2eef9            10666 Packages
+ 1bdd95cc027a2238ac8bf428ebe3ef6e             3354 Packages.gz
+ f7472ba9b458ad50e2fc8cad576cc1af             3611 Packages.bz2
+ 421663a87bede00c22007116c8376510             3096 Packages.xz
 SHA1:
- a8712e963af3ebc4201eabdfc02f6db070a31f91            10051 Packages
- 357f211646b4c01bfb3f3ea35471d0f26c6ad4cb             3234 Packages.gz
- 3f51fb6b3cd868775839317591295c57ac705ec0             3522 Packages.bz2
- 131750f1f3347d26753c45d1d3009c8f3eac5020             2996 Packages.xz
+ 3dcf6b8fa27dd60fbd76f383c272333d4eabbc6b            10666 Packages
+ 6e5082f8f6510a23b62ce6d92dd821adc4035b13             3354 Packages.gz
+ 733506235cd530c9e7108b7b3030ea4680733cd4             3611 Packages.bz2
+ ca14c73ec0f54b7e21ebc0db30e3e4761cdc7236             3096 Packages.xz
 SHA256:
- 24aec164c15a6e8e23b9c2147ced609d2a178712ac0c65e06d82e284203dab97            10051 Packages
- 21e6e83864ff44849b802751a627cf873168a95826a88e0ab1b13d295706f194             3234 Packages.gz
- b661f904cd5a8896df6c80e83c993a58e79e379ac54020f98f3ed16bfb13d37d             3522 Packages.bz2
- 86aadcec705ba7239ce5575b0cd483873ff86e37e40edb7857b6a4a29d1b87d6             2996 Packages.xz
+ 30da506634f713b23e6caad103ddf6988bd6f4e3ecd135986dd7911770efd561            10666 Packages
+ 80a14908ef3ee87a274b30182e60085b01a2d2c1cbf9ccd5a8412dff213cdb24             3354 Packages.gz
+ 2eea23f8c6f7df9b700b68363cb3f944ec24490eb40e2b25817008b633d258a7             3611 Packages.bz2
+ 8a9de352aaacef9b088f9b43ee5021f540f1acbe9330ce4d7691a2c740e684ab             3096 Packages.xz
